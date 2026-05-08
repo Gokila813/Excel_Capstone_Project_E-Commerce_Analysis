@@ -13,8 +13,8 @@ This project analyzes e-commerce sales data using Microsoft Excel to identify sa
 - Monthly Sales Trends
 - Top-Selling Products
 - Regional Performance
-- Customer Insights
-- KPI Reporting
+- Top-Customer by sales
+- Gender-wise analysis
 
 ## Features
 - Interactive Dashboard
